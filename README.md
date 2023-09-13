@@ -1,2 +1,2 @@
-# portfolio
-Portfólio Gabriel Alves de Souza
+# Portfólio
+Portfólio de projetos de Gabriel Alves de Souza
