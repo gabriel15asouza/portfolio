@@ -14,7 +14,7 @@ Portfólio de projetos de Gabriel Alves de Souza
 - **DESCRIÇÃO:** Desenvolvimento de uma plataforma web de edição poligonal com objetivo de importar arquivos geoJson de talhões capturados por drone. O Objetivo é possibilitar a revisão por um analista das imagens captadas e gerar arquivos GeoJson com as correções para dar continuidade ao processo de Machine Learning. Projeto proposto pela FATEC em parceria com empresa Visiona e desenvolvido pela equipe [Morpheus](https://github.com/Morpheus-fatec), alunos do 4° Semestre de Banco de Dados.
 - **TECNOLOGIAS E TOOLS:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-02303A.svg?style=for-the-badge&logo=Maven&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-%2300f.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
 
 ## [Morpheus](https://github.com/Morpheus-Fatec/morpheus)
@@ -22,7 +22,7 @@ Portfólio de projetos de Gabriel Alves de Souza
 - **DESCRIÇÃO:**  Desenvolvimento de sistema web de mapeamento de notícias em páginas selecionadas para construção de histórico relativo a temáticas específicas. O objetivo é, a longo prazo, visualizar retrospecto de eventos noticiados e analisar relações de causa e efeito. Projeto proposto pela FATEC em parceria com empresa GSW e desenvolvido pela equipe [Morpheus](https://github.com/Morpheus-fatec), alunos do 3° Semestre de Banco de Dados.
 - **TECNOLOGIAS E TOOLS:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-02303A.svg?style=for-the-badge&logo=Maven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## [Duck: Assistente Virtual](https://github.com/Byte-Boost/Duck)
